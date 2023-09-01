@@ -68,5 +68,5 @@ docker run -dt -p 80:80 nginx  ##-dt means detached mode. this is because it pul
 
 ## ****GETTING INSIDE A CONTAINER****
 # docker exec -it containerID bash
-# docker exec -it containerID sh.
+# docker exec -it containerID sh
 
